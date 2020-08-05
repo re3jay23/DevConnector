@@ -1,4 +1,5 @@
 {
-    "mongoURI":"mongodb+srv://ari123:pass123@devconnector.6sacp.mongodb.net/DevConnector?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://ari123:pass123@devconnector.6sacp.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtToken":"mysecret"
 
 }
