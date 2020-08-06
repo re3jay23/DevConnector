@@ -72,7 +72,7 @@ router.post('/',[
             }
         )
 
-        res.send('User registered');
+        //res.send('User registered');
     // Return jsonwebtoken
     }catch(err){
         console.log(err.message);
